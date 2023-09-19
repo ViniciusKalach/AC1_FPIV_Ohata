@@ -1,0 +1,26 @@
+# VS Code
+.vscode
+
+# Eclipse
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# IntelliJ
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/directionaries
+.idea/libraries
+
+# Mac OS
+.DS_Store
+
+# log files
+*.log
