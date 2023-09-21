@@ -7,4 +7,4 @@ Suas funções são análogas às de uma calculadora real:
 - Multiplicação;
 - Soma;
 - Subtração.
-## Última atualização 20/09/2023
+## Última atualização 21/09/2023
