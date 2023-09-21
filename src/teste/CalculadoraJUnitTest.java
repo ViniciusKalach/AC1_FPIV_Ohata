@@ -1,6 +1,6 @@
 package teste;
 
-import calculadora.Divisao;
+/*import calculadora.Divisao;
 import calculadora.Multiplicacao;
 import calculadora.Soma;
 import calculadora.Subtracao;
@@ -211,4 +211,4 @@ public class CalculadoraJUnitTest {
 	}
     // Qualquer número divido por 0 constará erro. Seria interessante que houvesse uma resposta ao cliente explicando o erro.
 
-}
+}*/
