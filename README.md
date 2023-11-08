@@ -7,4 +7,6 @@ Suas funções são análogas às de uma calculadora real:
 - Multiplicação;
 - Soma;
 - Subtração.
-## Última atualização 21/09/2023
+## Documentação
+O código se encontra documentado. Foi utilizado o JavaDoc, podendo ser acessado através da pasta doc. 
+## Última atualização 08/11/2023
